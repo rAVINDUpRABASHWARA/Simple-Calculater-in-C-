@@ -1,1 +1,1 @@
-# Simple-Calculater-in-C-
+# Simple-Calculater-in-C++
